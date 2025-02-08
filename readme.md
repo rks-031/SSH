@@ -1,9 +1,7 @@
 # Security in Smart Healthcare Systems
 Attribute Based Encryption system for EHR
 
-## Progress metrics for Mid-term
-
-# Smart Healthcare System: Security and User Interface
+## Progress metrics
 
 This README outlines the initial steps for developing a secure smart healthcare system, focusing on user interface design, data storage, and access control.
 
