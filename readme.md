@@ -1,4 +1,4 @@
-# SSH
+# Security in Smart Healthcare Systems
 Attribute Based Encryption system for EHR
 
 ## Progress metrics for Mid-term
