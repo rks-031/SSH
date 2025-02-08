@@ -1,0 +1,31 @@
+/* App.css */
+body {
+  background-color: #111; /* Darker gray background for dark mode */
+  color: #fff; /* White text for dark mode */
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  transition: background-color 0.5s;
+}
+
+/* Code editor styles (example) */
+.code-editor {
+  background-color: #21252b; /* Darker gray for code editor */
+  color: #f8f8f2; /* Light gray for code */
+  border: 1px solid #3f414e; /* Subtle border */
+  padding: 10px;
+}
+
+/* Button styles (example) */
+.btn {
+  background: linear-gradient(to right, #ff66cc, #9933ff); /* Pink to purple gradient */
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.btn:hover {
+  background: linear-gradient(to right, #ff33cc, #6600ff); /* Darker gradient on hover */
+}
